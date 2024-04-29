@@ -25,8 +25,8 @@ Drag Animator Controller to the GameObject in the Inspector.
 
 ## Program:
 
-### Developed by: Shyam Kumar A
-### Reg no: 212221230098
+#### Developed by: Shyam Kumar A
+#### Reg no: 212221230098
 
 ## PlayerController:
 ```c#

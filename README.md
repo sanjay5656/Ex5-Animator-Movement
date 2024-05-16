@@ -25,9 +25,6 @@ Drag Animator Controller to the GameObject in the Inspector.
 
 ## Program:
 
-#### Developed by: Shyam Kumar A
-#### Reg no: 212221230098
-
 ## PlayerController:
 ```c#
 using System.Collections;
@@ -58,8 +55,7 @@ public class PlayerController : MonoBehaviour
 ```
 ## Output:
 
-![image](https://github.com/ShyamKumar-AI-DS/Ex5-Animator-Movement/assets/93427182/74a182c6-c03e-4fc0-9abd-4fe0d89482a8)
-
+![Screenshot 2024-05-16 182558](https://github.com/sanjay5656/Ex5-Animator-Movement/assets/115128955/8f33a5c1-6f25-45ca-8927-b51157d422b2)
 
 
 ## Result:
